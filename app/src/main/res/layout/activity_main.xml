@@ -35,6 +35,6 @@
         android:id="@+id/textView"
         android:layout_width="119dp"
         android:layout_height="0dp"
-        android:text=" 王伟6" />
+        android:text=" 小明" />
 
 </android.support.design.widget.CoordinatorLayout>
